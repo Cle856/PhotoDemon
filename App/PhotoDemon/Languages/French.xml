@@ -94,17 +94,17 @@
 
 <phrase>
 <original>New color profile</original>
-<translation></translation>
+<translation>Nouveau profil colorimétrique</translation>
 </phrase>
 
 <phrase>
 <original>Export color profile</original>
-<translation></translation>
+<translation>Exporter le profil colorimétrique</translation>
 </phrase>
 
 <phrase>
 <original>Profile exported successfully.</original>
-<translation></translation>
+<translation>Profil exporté avec succès.</translation>
 </phrase>
 
 <!-- ColorManagement_ICM.bas contains 8 phrases. 4 were duplicates of existing phrases, so only 4 new phrases were written to file. -->
@@ -127,7 +127,7 @@
 
 <phrase>
 <original>How would you like to load this image?</original>
-<translation></translation>
+<translation>Comment voudriez-vous charger cette image ?</translation>
 </phrase>
 
 <phrase>
@@ -147,7 +147,7 @@
 
 <phrase>
 <original>in the future, do this without asking me</original>
-<translation></translation>
+<translation>À l'avenir, ne plus me le demander</translation>
 </phrase>
 
 <phrase>
@@ -157,17 +157,17 @@
 
 <phrase>
 <original>Cut special</original>
-<translation></translation>
+<translation>Coupe spéciale</translation>
 </phrase>
 
 <phrase>
 <original>Copy special</original>
-<translation></translation>
+<translation>Copie spéciale</translation>
 </phrase>
 
 <phrase>
 <original>Paste special</original>
-<translation></translation>
+<translation>Collage spécial</translation>
 </phrase>
 
 <!-- DialogManager.bas contains 15 phrases. 6 were duplicates of existing phrases, so only 9 new phrases were written to file. -->
@@ -208,7 +208,7 @@
 
 <phrase>
 <original>ExifTool could not be started.  Metadata unavailable for this session.</original>
-<translation>ExifTool pas pu être démarré. Métadonnées disponibles pour cette session.</translation>
+<translation>ExifTool n'a pas pu être démarré. Métadonnées indisponibles pour cette session.</translation>
 </phrase>
 
 <phrase>
@@ -223,12 +223,12 @@
 
 <phrase>
 <original>No metadata available.</original>
-<translation>Pas de métadonnées disponibles.</translation>
+<translation>Pas de métadonnée disponible.</translation>
 </phrase>
 
 <phrase>
 <original>This image does not contain any metadata.</original>
-<translation>Cette image ne contient pas de métadonnées.</translation>
+<translation>Cette image ne contient aucune métadonnée.</translation>
 </phrase>
 
 <phrase>
@@ -238,7 +238,7 @@
 
 <phrase>
 <original>This file format does not support metadata.  Metadata processing skipped.</original>
-<translation>Ce format de fichier ne supporte pas les métadonnées. Traitement de métadonnées ignorée.</translation>
+<translation>Ce format de fichier ne supporte pas les métadonnées. Traitement de métadonnées ignoré.</translation>
 </phrase>
 
 <phrase>
@@ -281,33 +281,33 @@
 <original>Before lossless copies can be saved, you must save this image at least once.
 
 Lossless copies will be saved to the same folder as this initial image save.</original>
-<translation>Avant copies sans perte peuvent être sauvegardés, vous devez enregistrer cette image au moins une fois.
+<translation>Avant que les copies sans perte puissent être sauvegardées, vous devez enregistrer cette image au moins une fois.
 
-Copies sans pertecopies seront enregistrées dans le même dossier que cette image initiale de sauver.</translation>
+Les copies sans perte seront enregistrées dans le même dossier que l'image initialement sauvegardée.</translation>
 </phrase>
 
 <phrase>
 <original>Initial save required</original>
-<translation>Enregistrer ce nécessaire</translation>
+<translation>Enregistrement initial nécessaire</translation>
 </phrase>
 
 <phrase>
 <original>Save canceled.</original>
-<translation>Enregistrer annulée.</translation>
+<translation>Enregistrement annulé.</translation>
 </phrase>
 
 <phrase>
 <original>An unspecified error occurred when attempting to save this image.  Please try saving the image to an alternate format.
 
 If the problem persists, please report it to the PhotoDemon developers via photodemon.org/contact</original>
-<translation>Une erreur non spécifiée s'est produite lors de la tentative de sauver cette image. S'il vous plaît essayez d'enregistrer l'image d'un autre format. 
+<translation>Une erreur non spécifiée s'est produite lors de la tentative d'enregistrement de cette image. Veuillez essayez d'enregistrer l'image dans un autre format. 
 
-Si le problème persiste, s'il vous plaît le signaler aux développeurs PhotoDemon via photodemon.org/contact</translation>
+Si le problème persiste, veuillez le signaler aux développeurs de PhotoDemon via photodemon.org/contact</translation>
 </phrase>
 
 <phrase>
 <original>Image save error</original>
-<translation>Erreur sauvegarde de l'image </translation>
+<translation>Erreur d'enregistrement de l'image</translation>
 </phrase>
 
 <phrase>
@@ -344,7 +344,7 @@ Si le problème persiste, s'il vous plaît le signaler aux développeurs PhotoDe
 
 <phrase>
 <original>Auto-correcting colors and lighting</original>
-<translation></translation>
+<translation>Correction automatique des couleurs et de la luminosité</translation>
 </phrase>
 
 <phrase>
@@ -359,12 +359,12 @@ Si le problème persiste, s'il vous plaît le signaler aux développeurs PhotoDe
 
 <phrase>
 <original>Shifting RGB values right</original>
-<translation>Déplacer des valeurs RVB à droit</translation>
+<translation>Déplacer les valeurs RVB à droite</translation>
 </phrase>
 
 <phrase>
 <original>Shifting RGB values left</original>
-<translation>Déplacer des valeurs RVB à gauche</translation>
+<translation>Déplacer les valeurs RVB à gauche</translation>
 </phrase>
 
 <phrase>
@@ -374,7 +374,7 @@ Si le problème persiste, s'il vous plaît le signaler aux développeurs PhotoDe
 
 <phrase>
 <original>Inverting image hue</original>
-<translation>Inverser teinte image</translation>
+<translation>Inverser la teinte de l'image</translation>
 </phrase>
 
 <phrase>
@@ -389,7 +389,7 @@ Si le problème persiste, s'il vous plaît le signaler aux développeurs PhotoDe
 
 <phrase>
 <original>Auto-enhancing color and lighting</original>
-<translation></translation>
+<translation>Amélioration automatique des couleurs et de la luminosité</translation>
 </phrase>
 
 <!-- Filters_Color.bas contains 10 phrases.  All 10 were unique, so 10 new phrases were written to file. -->
@@ -400,7 +400,7 @@ Si le problème persiste, s'il vous plaît le signaler aux développeurs PhotoDe
 
 <phrase>
 <original>Applying %1 filter</original>
-<translation>Appliquer filtre %1</translation>
+<translation>Appliquer le filtre %1</translation>
 </phrase>
 
 <phrase>
@@ -443,19 +443,21 @@ Si le problème persiste, s'il vous plaît le signaler aux développeurs PhotoDe
 
 <phrase>
 <original>Total colors: %1</original>
-<translation></translation>
+<translation>Total de couleurs: %1</translation>
 </phrase>
 
 <phrase>
 <original>This image contains %1 unique colors (RGB).
 
 This image contains %2 unique color + opacity values (RGBA).</original>
-<translation></translation>
+<translation>Cette image contient %1 couleurs uniques (RGB).
+ 
+ Cette image contient %2 couleurs et valeurs d'opacité uniques (RGBA).</translation>
 </phrase>
 
 <phrase>
 <original>Count image colors</original>
-<translation>Comptez couleurs de l'image</translation>
+<translation>Compter les couleurs de l'image</translation>
 </phrase>
 
 <!-- Filters_Misc.bas contains 5 phrases.  All 5 were unique, so 5 new phrases were written to file. -->
